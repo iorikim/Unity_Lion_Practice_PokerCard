@@ -49,21 +49,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11156}
+      Script: {instanceID: 11152}
     - Class: 114
-      Script: {instanceID: 11326}
+      Script: {instanceID: 11322}
     - Class: 114
-      Script: {instanceID: 11366}
+      Script: {instanceID: 11362}
     - Class: 114
-      Script: {instanceID: 11780}
+      Script: {instanceID: 11776}
     - Class: 114
-      Script: {instanceID: 12188}
+      Script: {instanceID: 11976}
     - Class: 114
-      Script: {instanceID: 12696}
+      Script: {instanceID: 12186}
     - Class: 114
-      Script: {instanceID: 13078}
+      Script: {instanceID: 12694}
     - Class: 114
-      Script: {instanceID: 16938}
+      Script: {instanceID: 13076}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -279,6 +279,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: cf838248ab507e53792340f99ae0dc65
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CardSystem
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -501,12 +507,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: cf838248ab507e53792340f99ae0dc65
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CardSystem
   platform: 20
   scenePathNames:
   - "Assets/\u64B2\u514B\u724C.unity"
